@@ -1,0 +1,28 @@
+vHola, en esta clase conocerás las librerías a importar en tu notebook para la fase de entrenamiento.
+
+Durante la clase siguiente tendrás que crear una nueva notebook e instalar diferentes librerías. En la clase verás que se instalas las siguientes.
+
+librerias_old.PNG
+⚠ Por temas de versiones de TensorFlow es importante que NO instales las librerías como aparece en la clase siguiente. Ya que con la nueva versión de TensorFlow 2.8 en adelante es posible que tu proyecto no funcione de la manera esperada.
+
+Dentro de la notebook instala las librerías de la siguiente manera:
+
+import os
+import pandas as pd
+import json
+import pickle
+import zipfile
+import shutil
+
+# Instalamos los paquetes necesarios para que funcione desde la Colab
+!pip install avro-python3
+!pip install 
+!pip install tf_slim==1.1.0
+!pip install tf-models-official==2.7.0
+!pip install lvis
+!pip install tensorflow_io==0.23.1
+!pip install keras==2.7.0
+!pip install opencv-python-headless==4.5.2.52
+Después de ello sigue desarrollando tu notebook como aparece en las clases del curso.
+
+Te veo en la siguiente clase para iniciar con ello.

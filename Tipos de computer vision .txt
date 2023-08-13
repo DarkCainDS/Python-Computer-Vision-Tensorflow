@@ -1,0 +1,19 @@
+3. Tipos de visión computarizada
+Los siguientes son tipos de visión computarizada.
+
+Clasificación de objetos
+Reciben imágenes y entregan una etiqueta.
+
+Subtipos
+Clasificación multiclase: Clasifica más de un tipo de objeto pero un sólo por imagen.
+Clasificación de múltiples etiquetas. Clasifica más de un objeto en la misma imagen.
+Detección de objetos
+Sirve para localizar los objetos relevantes en la imagen para luego poderlos clasificar.
+
+Segmentación de imágenes
+Permite dividir la imagen en áreas de características similares o por sus propiedades de contorno.
+
+Subtipos
+Segmentación semántica: Objetos similares son agrupados en un sólo grupo.
+Segmentación de instancias: Objetos similares son clasificados en grupos separados.
+Segmentación panóptica: Divide absolutamente todos los píxeles de la imagen en grupos. Es muy costoso computacionalmente.

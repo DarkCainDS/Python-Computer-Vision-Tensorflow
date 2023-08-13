@@ -1,0 +1,15 @@
+6. ¿Cómo definir los tiempos de tu proyecto?
+Cómo definir el alcance de tu proyecto: tiempos y costos.
+Identificar roles para tu proyecto.
+Definir el producto mínimo viable.
+Tiempos externos
+Son aquellos que dependen del entorno.
+
+Ej. Se requiere que un producto esté listo antes de la Navidad.
+
+Definir el alcance.
+Hay que categorizar los elementos del proyecto en:
+
+Must have: “Se debe tener”, cosas que el sistema necesita para funcionar correctamente desde el inicio.
+Should have: “Debería tener”, características secundarias que se debería relegar para segundas versiones.
+Nice to have: “Sería bueno tener”, Añaden poco valor al producto y deberían estar hasta el final de las prioridades.

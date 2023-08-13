@@ -1,0 +1,9 @@
+¿Cómo costear tu proyecto?
+No existe un única forma de costear.
+Crea tres escenarios: Ideal, mediano, peor.
+Con margen de falla.
+Agrega costos de servidores o herramientas externas.
+Divide tu proyecto en entregas mensuales.
+Valida y firma el alcance propuesto.
+Analiza la metodología de cobro.
+QUE NO TE DE MIEDO COBRAR

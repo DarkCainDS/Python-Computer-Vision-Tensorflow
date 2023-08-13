@@ -1,0 +1,3 @@
+
+https://pyimagesearch.com/2018/07/23/simple-object-tracking-with-opencv/
+https://learnopencv.com/find-center-of-blob-centroid-using-opencv-cpp-python/

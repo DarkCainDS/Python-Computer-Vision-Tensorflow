@@ -1,0 +1,12 @@
+. Producto mínimo viable en Computer Vision
+El concepto de producto Mínimo Viable sirve para evitar perder tiempo y dinero, definiendo las características mínimas para un proyecto.
+
+Try small.
+Fail fast.
+Fail cheap
+Fail forward.
+Don’t aim for perfection.
+Es mejor tener versiones pequeñas entregables que realizar producciones de productos con más características porque:
+
+Una solución rápida es mejor que ninguna solución en un intervalo corto de tiempo.
+Permite una mejor comunicación con el cliente, después de cada versión ya se tienen pruebas y opiniones.

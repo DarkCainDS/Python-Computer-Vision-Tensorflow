@@ -1,0 +1,14 @@
+Limpieza de las bases de datos
+
+Los datos son lo más importante al momento de llevar a cabo la creación de un modelo.
+Porque si se tienen malos los datos, malas etiquetas, entonces, el modelo va a arrojar malos resultados.
+Es importante tomarse un tiempo prudente para poder navegar a través de nuestra base de datos.
+Encontrar posibles datos duplicados
+Encontrar posibles imágenes corruptas.
+Imágenes que no generan valor para el modelo de negocio.
+En el proceso de selección y limpieza de la base de datos, se recomienda hacerlo en conjunto a un experto; que tenga claro para que se van a aplicar estos datos, porque se van a clasificar y cuál es el resultado final que se está esperando.
+Es importante analizar la base de datos por
+
+Cada base de datos buscar solucionar un problema diferente. Es muy diferente si se crea un algoritmo que detecte vehículos, motos desde cámaras de seguridad a que lo que haga desde la entrada de un parqueadero (estacionamiento).
+
+Lo que se busca con la base de datos es que generalice en un modelo la detección que se piensa hacer y que a su vez este alineada al entorno en el que va a funcionar.
